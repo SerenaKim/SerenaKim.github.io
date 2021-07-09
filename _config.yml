@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Data Analyst Narae Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Narae Kim(Serena Kim)"
+name                     : "Narae Kim"
 description              : "Welcome!"
 url                      : "https://SerenaKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Narae Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : Hi! I'm Narae(Serena) Welcome to my blog.
   location         : "Seoul, Korea"
   email            :
   links:
