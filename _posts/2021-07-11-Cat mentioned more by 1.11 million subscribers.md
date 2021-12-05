@@ -1,10 +1,11 @@
+Completed in 2021.06<br/>
 Data Source: https://www.youtube.com/watch?v=K6kYPA2jdKI<br/>
 Analyzed by Narae Kim
 
 "Which cat has been mentioned more?"<br/>
 (야통(Yattong) VS 삼색(Samsaek))
 
-"What are the top 20 and 40 words"
+"What are the top 20 and 40 words?"
 
 Comments Crawling
 
@@ -1316,5 +1317,3 @@ Result
 1. 야통(Yattong) was mentioned about 1.72 times more than 삼색(Samsaek).
 
 2. 뚱땅(Ddungddang) was mentioned 45 times even though he's not on the video.
-
-3. Many people envy the youtuber who is loved by cute cats.
