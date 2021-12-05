@@ -1275,7 +1275,7 @@ plt.show()
     
 
 
-Cat Cloud: Top 40 Words
+Word Cloud: Top 40 Words
 
 
 ```python
