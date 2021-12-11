@@ -1,3 +1,8 @@
+---
+layout: single
+categories: Data Analysis
+---
+
 Completed on 2021.07.11<br/>
 Data Source: https://www.youtube.com/watch?v=K6kYPA2jdKI<br/>
 Analyzed by Narae Kim
