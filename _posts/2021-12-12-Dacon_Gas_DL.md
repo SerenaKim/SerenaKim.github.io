@@ -219,7 +219,8 @@ data['공급량'].plot()
 
 
     
-![png](output_6_1.png)
+![output_6_1](https://user-images.githubusercontent.com/50707494/145716858-d85f8f43-3c4a-4811-b1f3-43e467916535.png)
+
     
 
 
@@ -482,9 +483,9 @@ C['공급량'].plot()
 
 
     
-![png](output_13_1.png)
-    
+![output_13_1](https://user-images.githubusercontent.com/50707494/145716893-ffcf5656-3f05-4caa-bab0-5ca31a647f5d.png)
 
+    
 
 
 ```python
@@ -2767,8 +2768,10 @@ plot_loss (history, 'LSTM')
 ```
 
 
+
     
-![png](output_40_0.png)
+![output_40_0](https://user-images.githubusercontent.com/50707494/145716953-3cb84338-f876-4357-90db-547d1c00ae5a.png)
+
     
 
 
@@ -2805,9 +2808,10 @@ plt.ylabel("Predict: $\hat{Y}_i$")
 
 
 
-    
-![png](output_44_1.png)
-    
+![output_44_1](https://user-images.githubusercontent.com/50707494/145716969-e2a9c6ea-1c6c-460e-a854-3f5f996ff1ba.png)
+
+   
+   
 
 
 METRIC
@@ -3339,8 +3343,9 @@ plot_loss (history, 'CNN')
 
 
     
-![png](output_51_0.png)
-    
+
+![output_51_0](https://user-images.githubusercontent.com/50707494/145716999-33044342-c373-4a2a-971f-b7591a378255.png)
+
 
 
 
@@ -3386,7 +3391,8 @@ plt.plot([min_val, max_val], [min_val, max_val], color='r')
 
 
     
-![png](output_55_1.png)
+![output_55_1](https://user-images.githubusercontent.com/50707494/145717021-8f7e226c-b498-4099-ada2-65c0aa4a965f.png)
+
     
 
 
@@ -3404,8 +3410,9 @@ plt.plot(np.arange(y_val.shape[0]), y_pred_)
 
 
 
-    
-![png](output_56_1.png)
+![output_56_1](https://user-images.githubusercontent.com/50707494/145717030-bd9d902c-7ad7-4227-9884-a48d472d6a04.png)
+
+
     
 
 
@@ -3424,7 +3431,9 @@ plt.plot(np.arange(y_val.shape[0]), y_val)
 
 
     
-![png](output_57_1.png)
+![output_57_1](https://user-images.githubusercontent.com/50707494/145717037-669a8fe7-cfa3-4632-ab2f-4c9e3036b234.png)
+
+
     
 
 
@@ -4776,7 +4785,8 @@ plt.plot(pred_CNN, color = 'c')
 
 
     
-![png](output_86_1.png)
+![output_86_1](https://user-images.githubusercontent.com/50707494/145717060-daefe7e4-ba75-4527-b091-c9eabac8a634.png)
+
     
 
 
@@ -4795,8 +4805,9 @@ plt.plot(pred_LSTM, color = 'b')
 
 
     
-![png](output_87_1.png)
-    
+![output_87_1](https://user-images.githubusercontent.com/50707494/145717067-5105bea3-df62-4ccd-9674-2201ac216bd2.png)
+
+
 
 
 Ensemble
