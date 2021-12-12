@@ -5,7 +5,7 @@ title: "DACON 가스공급량 수요예측 모델개발 LGBM, XGBoost Ensemble"
 
 Uploaded on 2021.12.12<br/>
 Analyzed by 김나래, 홍채원, 이지혜<br/>
-NMAE: 0.1448<br/>
+NMAE: 0.1446<br/>
 
 ```python
 from google.colab import drive
