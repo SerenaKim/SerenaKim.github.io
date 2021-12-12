@@ -670,10 +670,8 @@ lgb.plot_importance(model_LGBM, max_num_features = len(features), importance_typ
 
 
 
+![output_19_1](https://user-images.githubusercontent.com/50707494/145716289-811fd248-a0f5-4ea6-9aa6-466709ba6999.png)
 
-    
-![png](output_19_1.png)
-    
 
 
 Test Data Preprocessing
