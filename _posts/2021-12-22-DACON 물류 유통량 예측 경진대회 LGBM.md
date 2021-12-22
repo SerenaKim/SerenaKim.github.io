@@ -2089,8 +2089,9 @@ submission['INVC_CONT'].plot()
 
 
     
-![png](output_25_1.png)
-    
+![output_25_1](https://user-images.githubusercontent.com/50707494/147120421-d696d462-ee21-4bad-8a3d-8135859e1283.png)
+
+
 
 
 
