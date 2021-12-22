@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "DACON 가스공급량 수요예측 모델개발 LSTM, 1D CNN Ensemble"
+categories: Competition
 ---
 
 Uploaded on 2021.12.12<br/>
