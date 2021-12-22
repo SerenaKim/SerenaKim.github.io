@@ -4,6 +4,10 @@ title: "DACON 물류 유통량 예측 경진대회 LGBM"
 categories: Competition
 ---
 
+Uploaded on 2021.12.22<br/>
+Analyzed by 김나래, 홍채원, 이지혜<br/>
+RMSE: 5.3556<br/>
+
 ```python
 from google.colab import drive
 
