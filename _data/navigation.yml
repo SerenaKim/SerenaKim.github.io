@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Category"
-    url: /categories/
+    url: https://serenakim.github.io/minimal-mistakes/docs/_pages/category-archive.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Data & AI Projects"
