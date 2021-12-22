@@ -1,6 +1,6 @@
 ---
 layout: single
-categories: Data Analysis
+categories: Project
 ---
 
 Completed on 2021.07.11<br/>
