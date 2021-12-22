@@ -1,3 +1,8 @@
+---
+layout: single
+title: "DACON 물류 유통량 예측 경진대회 LGBM"
+---
+
 ```python
 from google.colab import drive
 
